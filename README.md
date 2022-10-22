@@ -3,7 +3,6 @@ This project was done for the Mobile Application Development Project in SLIIT. L
 
 <img src="Cecconi's-Soho-House.jpg"> </a>
 
-# MAD_Project
 # Project Name - Online Food Delivery System
 # Batch - Batch 03.1 Group 2
 ### Group Leader - IT20624330 - M.A.D.M.Premathilaka (IT20624330)
